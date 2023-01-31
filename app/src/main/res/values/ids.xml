@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_move_activity" type="id" />
+    <item name="btn_data_activity" type="id" />
+    <item name="btn_object_activity" type="id" />
+    <item name="btn_number_activity" type="id" />
+    <item name="btn_result_activity" type="id" />
+</resources>
